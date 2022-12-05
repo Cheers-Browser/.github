@@ -11,4 +11,4 @@ It is importatnt to query the blockchain for meaningful metrics on upcoming tren
 
 🧭 Make your way through the metaverse on the most user-friendly blockchain browser.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
